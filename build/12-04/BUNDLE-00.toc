@@ -1,0 +1,3 @@
+([('12-04',
+   '/Users/byambaa/Documents/python emphasoft/dist/12-04',
+   'EXECUTABLE')],)
